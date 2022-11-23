@@ -1,7 +1,5 @@
 ### node.js 설치
 ![환경설정전제일먼저설치0](https://user-images.githubusercontent.com/10001221/203452510-3a654c77-7443-4fae-8643-afa5d222b913.png)
-
-
 ### 환경 설정
 ![개발환경설정1](https://user-images.githubusercontent.com/10001221/203452694-33cd920f-892f-4f42-9820-3a3496851e28.png)
 
