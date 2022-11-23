@@ -5,6 +5,7 @@
 ![개발환경설정1](https://user-images.githubusercontent.com/10001221/203452694-33cd920f-892f-4f42-9820-3a3496851e28.png)
 
 ### 확장 프로그램 설치
+#### 하이라이트 기능, 에러 체킹 기능
 ![개발환경설정2](https://user-images.githubusercontent.com/10001221/203452729-3e0b6926-2413-4f64-b539-851a961328e3.png)
 
 ![개발환경설정3](https://user-images.githubusercontent.com/10001221/203452852-1496bff7-78d7-4b75-ad49-f0815afc9ed0.png)
