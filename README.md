@@ -11,6 +11,11 @@
 
 ![개발환경설정4](https://user-images.githubusercontent.com/10001221/203452864-2b83a978-f925-4093-92f3-dcac07d53577.png)
 
+![vue_ext](https://user-images.githubusercontent.com/10001221/203648456-60859909-bc28-41aa-a39d-64fa8367a159.png)
+
+# VSC 한글 
+![korean_lang](https://user-images.githubusercontent.com/10001221/203648467-6824122c-cc20-4d57-a5e4-d2f604dd722e.png)
+
 ### vue 프로젝트 생성
 ![프로젝트생성5](https://user-images.githubusercontent.com/10001221/203452925-48843bdf-00ef-49d0-afdf-98da7acf8dcf.png)
 
