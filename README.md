@@ -14,6 +14,7 @@
 #### Snippets 코드 자동 완성 지원
 ![개발환경설정4](https://user-images.githubusercontent.com/10001221/203452864-2b83a978-f925-4093-92f3-dcac07d53577.png)
 
+#### Vue 공식 추천 extension
 ![vue_ext](https://user-images.githubusercontent.com/10001221/203648456-60859909-bc28-41aa-a39d-64fa8367a159.png)
 
 #### VSC 한글 
