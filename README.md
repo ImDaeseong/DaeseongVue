@@ -13,7 +13,7 @@
 
 ![vue_ext](https://user-images.githubusercontent.com/10001221/203648456-60859909-bc28-41aa-a39d-64fa8367a159.png)
 
-## VSC 한글 
+#### VSC 한글 
 ![korean_lang](https://user-images.githubusercontent.com/10001221/203648467-6824122c-cc20-4d57-a5e4-d2f604dd722e.png)
 
 ### vue 프로젝트 생성
