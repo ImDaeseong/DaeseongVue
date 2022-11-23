@@ -5,20 +5,20 @@
 
 
 ### 2. 확장 프로그램 설치
-#### 하이라이트 기능, 에러 체킹 기능
-![개발환경설정2](https://user-images.githubusercontent.com/10001221/203452729-3e0b6926-2413-4f64-b539-851a961328e3.png)
+  #### 하이라이트 기능, 에러 체킹 기능
+  ![개발환경설정2](https://user-images.githubusercontent.com/10001221/203452729-3e0b6926-2413-4f64-b539-851a961328e3.png)
 
-#### HTML CSS 지원
-![개발환경설정3](https://user-images.githubusercontent.com/10001221/203452852-1496bff7-78d7-4b75-ad49-f0815afc9ed0.png)
+  #### HTML CSS 지원
+  ![개발환경설정3](https://user-images.githubusercontent.com/10001221/203452852-1496bff7-78d7-4b75-ad49-f0815afc9ed0.png)
 
-#### Snippets 코드 자동 완성 지원
-![개발환경설정4](https://user-images.githubusercontent.com/10001221/203452864-2b83a978-f925-4093-92f3-dcac07d53577.png)
+  #### Snippets 코드 자동 완성 지원
+  ![개발환경설정4](https://user-images.githubusercontent.com/10001221/203452864-2b83a978-f925-4093-92f3-dcac07d53577.png)
 
-#### Vue 공식 추천 extension
-![vue_ext](https://user-images.githubusercontent.com/10001221/203648456-60859909-bc28-41aa-a39d-64fa8367a159.png)
+  #### Vue 공식 추천 extension
+  ![vue_ext](https://user-images.githubusercontent.com/10001221/203648456-60859909-bc28-41aa-a39d-64fa8367a159.png)
 
-#### VSC 한글 
-![korean_lang](https://user-images.githubusercontent.com/10001221/203648467-6824122c-cc20-4d57-a5e4-d2f604dd722e.png)
+  #### VSC 한글 
+  ![korean_lang](https://user-images.githubusercontent.com/10001221/203648467-6824122c-cc20-4d57-a5e4-d2f604dd722e.png)
 
 
 ### 3. vue 프로젝트 생성
