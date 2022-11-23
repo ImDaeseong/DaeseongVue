@@ -19,3 +19,6 @@
 
 ### 생성한 vue 프로젝트 실행
 ![프로젝트실행7](https://user-images.githubusercontent.com/10001221/203453046-9b6f4885-f2d3-475e-acff-35ead6eedfdf.png)
+
+### node 와 vue 버전 확인
+![버전](https://user-images.githubusercontent.com/10001221/203566235-f6ef8095-a7aa-4cd4-8f80-4957980e3bc5.png)
