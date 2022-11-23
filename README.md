@@ -5,8 +5,8 @@
 
 
 ### 2. 확장 프로그램 설치
-&nbsp;&nbsp;  #### 하이라이트 기능, 에러 체킹 기능
-&nbsp;&nbsp;  ![개발환경설정2](https://user-images.githubusercontent.com/10001221/203452729-3e0b6926-2413-4f64-b539-851a961328e3.png)
+&nbsp; #### 하이라이트 기능, 에러 체킹 기능
+&nbsp; ![개발환경설정2](https://user-images.githubusercontent.com/10001221/203452729-3e0b6926-2413-4f64-b539-851a961328e3.png)
 
   #### HTML CSS 지원
   ![개발환경설정3](https://user-images.githubusercontent.com/10001221/203452852-1496bff7-78d7-4b75-ad49-f0815afc9ed0.png)
